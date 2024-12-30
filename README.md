@@ -8,9 +8,9 @@
 
 3.Models and Results
 
-Model 1: DeepFake Video Detection
+- Model 1: DeepFake Video Detection
 
-Model 2: DeepFake Image Detection
+- Model 2: DeepFake Image Detection
 
 4.Data Pipeline
 
