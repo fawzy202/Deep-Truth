@@ -118,7 +118,11 @@ Python 3.6 or higher
 
 ## **Required Libraries:**
 
-pip install numpy opencv-python tensorflow flask
+pip install numpy
+
+pip install opencv-python 
+
+pip install tensorflow flask
 
 ## **Installation**
 
@@ -129,7 +133,10 @@ cd DeepFake-Detection
 
 ## **Install dependencies:**
 
-pip install -r requirements.txt
+pip install tensorflow
+pip install opencv-python
+pip install numpy
+
 
 ## **Run the Models**
 
