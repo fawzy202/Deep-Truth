@@ -124,7 +124,7 @@ pip install numpy opencv-python tensorflow flask
 
 Clone the repository:
 
-git clone https://github.com/yourusername/DeepFake-Detection.git
+git clone https://github.com/fawzy202/DeepFake-Detection.git
 cd DeepFake-Detection
 
 ## **Install dependencies:**
@@ -159,9 +159,6 @@ Create a new branch for your feature or bug fix.
 
 Submit a pull request with detailed descriptions of your changes.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 
