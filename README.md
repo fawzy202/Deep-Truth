@@ -138,7 +138,9 @@ Prepare the datasets as per the Data Pipeline.
 Train the model:
 
 python train_model.py --model MobileNet_v3
+
 python train_model.py --model MobileNet
+
 python train_model.py --model resnet50
 
 Evaluate on test data:
