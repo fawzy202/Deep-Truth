@@ -16,21 +16,21 @@
 
 5.Deployment
 
-DeepTruth Website
+- DeepTruth Website
 
-DeepTruth Application
+- DeepTruth Application
 
 6.Market Insights
 
 7.Getting Started
 
-Prerequisites
+- Prerequisites
 
-Required Libraries
+- Required Libraries
 
-Installation
+- Installation
 
-Run the Models
+- Run the Models
 
 8.Contributing
 
