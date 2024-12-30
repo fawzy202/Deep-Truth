@@ -4,25 +4,34 @@
 
 1.Overview
 
+
 2.Objectives
 
+
 3.Models and Results
+
 
 - Model 1: DeepFake Video Detection
 
 - Model 2: DeepFake Image Detection
+  
 
 4.Data Pipeline
 
+
 5.Deployment
+
 
 - DeepTruth Website
 
 - DeepTruth Application
 
+
 6.Market Insights
 
+
 7.Getting Started
+
 
 - Prerequisites
 
@@ -32,7 +41,9 @@
 
 - Run the Models
 
+
 8.Contributing
+
 
 9.Contact
 
