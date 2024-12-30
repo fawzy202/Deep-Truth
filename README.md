@@ -138,16 +138,13 @@ Prepare the datasets as per the Data Pipeline.
 Train the model:
 
 python train_model.py --model MobileNet_v3
+python train_model.py --model MobileNet
+python train_model.py --model resnet50
 
 Evaluate on test data:
 
 python evaluate.py --dataset test
 
-## **Run the Web Application**
-
-python app.py
-
-Access the app at http://localhost:5000.
 
 ## **Contributing**
 
@@ -166,5 +163,4 @@ Email: fawzi.muhammad20@gmail.com
 
 GitHub: fawzy202
 
-Website: DeepTruth
 
