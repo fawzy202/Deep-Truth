@@ -2,53 +2,23 @@
 
 ## **Table of Contents**
 
- 1.Overview
-
-
-
-
-2.Objectives
-
-
-3.Models and Results
-
-
-- Model 1: DeepFake Video Detection
-
-- Model 2: DeepFake Image Detection
-  
-
-4.Data Pipeline
-
-
-5.Deployment
-
-
-- DeepTruth Website
-
-- DeepTruth Application
-
-
-6.Market Insights
-
-
-7.Getting Started
-
-
-- Prerequisites
-
-- Required Libraries
-
-- Installation
-
-- Run the Models
-
-
-8.Contributing
-
-
-9.Contact
-
+1. [Overview](#overview)
+2. [Objectives](#objectives)
+3. [Models and Results](#models-and-results)
+   - [Model 1: DeepFake Video Detection](#model-1-deepfake-video-detection)
+   - [Model 2: DeepFake Image Detection](#model-2-deepfake-image-detection)
+4. [Data Pipeline](#data-pipeline)
+5. [Deployment](#deployment)
+   - [DeepTruth Website](#deeptruth-website)
+   - [DeepTruth Application](#deeptruth-application)
+6. [Market Insights](#market-insights)
+7. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Required Libraries](#required-libraries)
+   - [Installation](#installation)
+   - [Run the Models](#run-the-models)
+8. [Contributing](#contributing)
+9. [Contact](#contact)
 ## **Overview**
 
 DeepFake technology poses significant challenges in the realms of media integrity, identity protection, and cybersecurity. This project, DeepTruth, aims to develop robust machine learning models and tools to detect DeepFake content in both images and videos. By leveraging state-of-the-art AI architectures, we provide an effective solution for combating the spread of manipulated media.
