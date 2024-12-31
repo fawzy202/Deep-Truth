@@ -79,6 +79,13 @@ Generate fake images using face-swapping APIs.
 
 **MobileNet_v3:** 91.86%
 
+## Result
+
+
+
+
+
+
 ## **Data Pipeline**
 
 **Data Collection:**
@@ -120,6 +127,9 @@ Database: MongoDB
 ## **DeepTruth Application**
 
 A mobile application offering real-time detection capabilities.
+
+![Uploading WhatsApp Image 2024-12-31 at 01.05.27_72264716.jpg…]()
+
 
 ## **Market Insights**
 
