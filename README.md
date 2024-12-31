@@ -98,6 +98,8 @@ Generate fake images using face-swapping APIs.
 
 ![WhatsApp Image 2024-12-25 at 12 55 02_ce97c143](https://github.com/user-attachments/assets/55ec225e-f94b-489e-a7f0-2e1fc164973f)
 
+![Screenshot 2024-12-31 114247](https://github.com/user-attachments/assets/ef15f735-b4f1-4aca-ac8b-bcd65cbff479)
+
 
 
 
