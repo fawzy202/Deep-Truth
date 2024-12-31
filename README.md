@@ -18,7 +18,8 @@
    - [Installation](#installation)
    - [Run the Models](#run-the-models)
 8. [Contributing](#contributing)
-9. [Contact](#contact)
+9. [Visualization](#Visualization)
+10. [Contact](#contact)
 ## **Overview**
 
 DeepFake technology poses significant challenges in the realms of media integrity, identity protection, and cybersecurity. This project, DeepTruth, aims to develop robust machine learning models and tools to detect DeepFake content in both images and videos. By leveraging state-of-the-art AI architectures, we provide an effective solution for combating the spread of manipulated media.
@@ -145,7 +146,7 @@ Database: MongoDB
 
 A mobile application offering real-time detection capabilities.
 
-![Uploading WhatsApp Image 2024-12-31 at 01.05.27_72264716.jpg…]()
+![WhatsApp Image 2024-12-31 at 01 05 26_cc66c597](https://github.com/user-attachments/assets/d4582633-5769-405b-bff4-f7f1086e6927)
 
 
 ## **Market Insights**
@@ -199,6 +200,16 @@ python train_model.py --model resnet50
 Evaluate on test data:
 
 python evaluate.py --dataset test
+
+## **Visualization**
+
+![Screenshot 2024-12-31 114342](https://github.com/user-attachments/assets/25cb53c4-8654-45c3-9d3c-24ef8c84b3c7)
+
+![Screenshot 2024-12-31 121345](https://github.com/user-attachments/assets/53aacc15-6c24-4a97-b812-46732445dc3e)
+
+![WhatsApp Image 2024-12-25 at 13 03 35_280faee2](https://github.com/user-attachments/assets/2270fd45-857e-4a81-a586-aaa592433bb6)
+
+![WhatsApp Image 2024-12-25 at 13 06 51_d411ff2c](https://github.com/user-attachments/assets/cff207bd-4ddd-4618-96bc-2f44039c13ce)
 
 
 ## **Contributing**
