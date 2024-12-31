@@ -227,6 +227,7 @@ Contact
 
 Email: fawzi.muhammad20@gmail.com
 
-GitHub: fawzy202
+GitHub: [https://www.openai.com "Visit OpenAI](https://github.com/fawzy202)
+
 
 
