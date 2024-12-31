@@ -23,6 +23,11 @@
 
 DeepFake technology poses significant challenges in the realms of media integrity, identity protection, and cybersecurity. This project, DeepTruth, aims to develop robust machine learning models and tools to detect DeepFake content in both images and videos. By leveraging state-of-the-art AI architectures, we provide an effective solution for combating the spread of manipulated media.
 
+**short video about the danger of deep fake technology**
+
+
+https://github.com/user-attachments/assets/d177a5ee-dc15-4fd4-adc9-b06ae0a511ef
+
 ## **Objectives**
 
 **Model Development:** Build and train machine learning models to detect DeepFake-generated images and videos.
