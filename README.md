@@ -86,7 +86,17 @@ Generate fake images using face-swapping APIs.
 
 ## Result
 
+![fake](https://github.com/user-attachments/assets/aea6feb3-7d59-42c9-8a80-4b630ccf94fb)
 
+![real](https://github.com/user-attachments/assets/7b4adbed-bde6-4c37-80f8-ce455dfeb625)
+
+![WhatsApp Image 2024-12-25 at 12 55 01_99aff856](https://github.com/user-attachments/assets/7fd3f488-87f6-402d-8c7d-30a340036f21)
+
+![WhatsApp Image 2024-12-25 at 12 55 01_9f41a095](https://github.com/user-attachments/assets/95a6aa81-096e-4656-bbed-011b23bbb418)
+
+![Screenshot 2024-12-31 114130](https://github.com/user-attachments/assets/cb79dcc1-3fb0-402e-8867-36708a43c4f4)
+
+![WhatsApp Image 2024-12-25 at 12 55 02_ce97c143](https://github.com/user-attachments/assets/55ec225e-f94b-489e-a7f0-2e1fc164973f)
 
 
 
